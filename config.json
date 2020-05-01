@@ -1,0 +1,6 @@
+{
+    "event_period": 1.0,
+    "event_rate": 2,
+    "driver_time_variance": 4.0,
+    "driver_time_min": 2.0
+}

@@ -1,0 +1,32 @@
+body, html {
+    font-family: sans-serif;
+}
+
+#restaurant {
+    position: absolute;
+    left: 50%;
+    top: 200px;
+    margin-left: -350px;
+    width:700px;
+    border: solid 3px black;
+    border-radius: 10px;
+    padding: 20px;
+}
+
+
+.shelf table,.drivers {
+    width: 100%;
+}
+
+.shelf table th, .drivers  {
+    text-align: left;
+}
+
+.centered {
+    text-align: center;
+}
+
+.log {
+    font-size: 12px;
+    padding-bottom: 5px;
+}

@@ -1,0 +1,1 @@
+initSidebarItems({"mod":[["simulation","A collection of restaurant simulation representations"],["wasm","The glue between javascript and web assembly to run a restaurant simulation"]]});
