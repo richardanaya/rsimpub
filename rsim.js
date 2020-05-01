@@ -31,7 +31,7 @@ function renderShelf(shelf) {
   })</h2><table class="shelf"><tr><th>Name</th><th>Order Value</th><th>Shelf Life</th><th>Age</th></tr>${shelf.items
     .map(
       x =>
-        `<tr><td>${x.order.name}</td><td>${x.order_value}</td><td>${x.order.shelfLife}</td><td>${x.age}</td></tr>`
+        `<tr><td>${x.order.name}</td><td>${x.orderValue}</td><td>${x.order.shelfLife}</td><td>${x.age}</td></tr>`
     )
     .join("")}</table></div>`;
 }
