@@ -121,7 +121,7 @@ async function runSimulation() {
       restaurantLog("something went wrong");
       window.clearInterval(handle);
     }
-  }, 100);
+  }, 1000);
 }
 
 // get things started
